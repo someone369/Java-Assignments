@@ -28,5 +28,7 @@ public class ArrayCommon {
 				"Japan", "Pak", "NZ", "RSA", "Austrilia", "NZ" };
 		arrayCommon(countries);
 	}
-
+	public static void test() {
+		
+	}
 }
